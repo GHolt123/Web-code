@@ -1,0 +1,45 @@
+<head>
+  <title>Pumpkin Pie Recipe</title>
+
+  <style>
+.recipe-wrapper{
+    display: flex;
+
+  }
+.recipe{
+  width: 600px;
+  background-color: coral;
+}
+.ingredient div:nth-child(even){
+  background-color:white;
+}
+  </style>
+</head>
+
+  <body>
+    <h1>Pumpkin Pie Recipe</h1>
+    <div class="recipe-wrapper">
+      <div class="ingredients">
+          <div>1 can Pumpkin</div>
+          <div>1 can sweetened condensed milk</div>
+          <div>2 Large eggs</div>
+          <div>1 tsp sugar</div>
+          <div>1/2 tsp salt</div>
+          <div>1/4 tsp nutmeg</div>
+          <div>1/4 tsp clove</div>
+      </div>
+
+        <div class="recipe">
+          <ol>
+            <li>Preheat oven to 375 degrees.</li>
+            <li>While oven is preheating, melt the butter in a saucepan over medium-high heat.</li>
+            <li>for one minute or until.</li>
+            <li> Hi </li>
+            <li>Hello </li>
+            <li>Yes</li>
+            <li>No</li>
+            <li>Maybe</li>
+          </ol>
+        </div>
+    </div>
+  </body>
